@@ -62,7 +62,7 @@ This project provides **ready-to-deploy Fabric Notebooks** implementing an end-t
 
 ```bash
 # Clone the repository
-git clone https://github.com/othmanezizi/microsoft-fabric-lakehouse-to-dashboard.git
+git clone https://github.com/othmane-zizi-pro/microsoft-fabric-lakehouse-to-dashboard.git
 cd microsoft-fabric-lakehouse-to-dashboard
 
 # Install dependencies (only for data generation)
