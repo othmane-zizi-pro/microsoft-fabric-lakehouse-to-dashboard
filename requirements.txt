@@ -1,0 +1,11 @@
+# Microsoft Fabric Deployment - Sample Data Generation Only
+
+# Required for generating sample CSV data
+pandas>=2.0.0
+
+# Optional: For loading environment variables
+python-dotenv>=1.0.0
+
+# Note: PySpark execution happens in Microsoft Fabric, not locally
+# The Fabric Notebooks (01_Extract.ipynb, 02_Transform.ipynb) run on Fabric's
+# managed Spark clusters, so no local Spark installation is needed.
