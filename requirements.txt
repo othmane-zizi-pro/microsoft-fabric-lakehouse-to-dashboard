@@ -3,6 +3,7 @@
 # Required for generating sample CSV data
 pandas>=2.0.0
 
+
 # Optional: For loading environment variables
 python-dotenv>=1.0.0
 
